@@ -1,12 +1,15 @@
-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
+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
 
-
+@@@@@@@@@@@@@@@@@@@@@@
 
 git remote add origin https://github.com/JorgeAlfaroAguirre/ProbandoToken.git
 
 
-git remote add origin https://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@github.com/JorgeAlfaroAguirre/ProbandoToken.git
+git remote add origin https://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@github.com/JorgeAlfaroAguirre/ProbandoToken.git
 
+>>> eliminar
+
+git remote remove origin
 
 echo "# ProbandoToken" >> README.md
 git init
